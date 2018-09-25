@@ -1,15 +1,23 @@
 # ChaseInPositivity
 Project to increase retention for the "Be Positive" non-profit Orginzation.
 ## Technologies used :
-  [D3.js library](https://d3js.org/)
-  [React](https://reactjs.org/)
-  [PostgreSQL](https://www.postgresql.org/)
-  [Postman](https://www.getpostman.com/)
-  [Amazon Web Services](https://aws.amazon.com/)
-  [Bootstrap](http://getbootstrap.com/)
++ [D3.js library](https://d3js.org/)
++ [React](https://reactjs.org/)
++ [PostgreSQL](https://www.postgresql.org/)
++ [Postman](https://www.getpostman.com/)
++ [Amazon Web Services](https://aws.amazon.com/)
++ [Bootstrap](http://getbootstrap.com/)
+
+### Instructions
+- Install Node
+- Navigate to the **/react-modal-login** folder within the project inside your terminal then proceed with the following commands:
+```
+npm install
+npm start
+```
 
 
-  ## Inspiration for the Project
+ ### Inspiration for the Project
 
   Our inspiration for this assignment came from the non-profit B+ (Be Positive). B+ is a non-profit tackling childhood cancer. Most of their hard work is focused on High School students but they have a hard time with rentention as the student later graduate and move onto other things, inevitably forgeting about the non-profit. My team and I create a gamified aspect to the overall donation process where each user can see how much each of their friends donated to encourage competition in the donation stage. We also made it easier for the administrators to see where their various streams of revenue are coming from and how they can better concentrate their efforts to target spacific regions that are willing to donate more.
 
