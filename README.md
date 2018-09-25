@@ -16,8 +16,10 @@ Project to increase retention for the "Be Positive" non-profit Organization.
 > node -v checks your current Node version, make sure you are on the latest Node version
 
 > npm -v checks your current npm version, make sure you have the latest npm version
-- npm install
-- npm start
+```
+ npm install
+ npm start
+ ```
 
 
 
