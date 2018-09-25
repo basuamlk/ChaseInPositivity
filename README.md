@@ -11,11 +11,9 @@ Project to increase retention for the "Be Positive" non-profit Organization.
 
 ### Instructions
 - Install Node
+- Make sure your own the latest Node and npm versions using the commands `node -v` and `npm -v` to check your current version.
 - Navigate to the **/react-modal-login** folder within the project inside your terminal then proceed with the following commands:
 
-> node -v checks your current Node version, make sure you are on the latest Node version
-
-> npm -v checks your current npm version, make sure you have the latest npm version
 ```
  npm install
  npm start
